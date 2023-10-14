@@ -15,7 +15,7 @@ mode = 'saving' # standard
 
 
 if __name__ == "__main__":
-    processes = get_process_by_name('riot')
+    processes = get_process_by_name('metatrader')
     
     myPID = (os.getpid())
     processes.append({
@@ -33,12 +33,10 @@ if __name__ == "__main__":
     
     while True:
         memoria = psutil.virtual_memory()
-        disco = psutil.disk_usage('/')
         cpu_usage = psutil.cpu_percent(interval=1)  # intervalo de 1 segundo
         red = psutil.net_io_counters()
 
         print(f"Uso de Memoria: {memoria.percent}%")
-        print(f"Uso de Disco: {disco.percent}%")
         print(f"Uso de CPU: {cpu_usage}%")
         print(f"Uso de Red (bytes enviados): {red.bytes_sent} bytes")
         print(f"Uso de Red (bytes recibidos): {red.bytes_recv} bytes")
