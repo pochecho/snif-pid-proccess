@@ -1,0 +1,844 @@
+Tiempo: 2023-10-09 18:46:12
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98656256  163774464 
+
+Tiempo: 2023-10-09 18:46:13
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98656256  163774464 
+
+Tiempo: 2023-10-09 18:46:14
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98656256  163774464 
+
+Tiempo: 2023-10-09 18:46:15
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163774464 
+
+Tiempo: 2023-10-09 18:46:16
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163774464 
+
+Tiempo: 2023-10-09 18:46:17
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163774464 
+
+Tiempo: 2023-10-09 18:46:18
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98676736  163774464 
+
+Tiempo: 2023-10-09 18:46:19
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98676736  163774464 
+
+Tiempo: 2023-10-09 18:46:20
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98721792  163799040 
+
+Tiempo: 2023-10-09 18:46:21
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98721792  163799040 
+
+Tiempo: 2023-10-09 18:46:22
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98721792  163799040 
+
+Tiempo: 2023-10-09 18:46:23
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98734080  163799040 
+
+Tiempo: 2023-10-09 18:46:24
+Uso de CPU (%): 1.6
+Uso de memoria (bytes): 98713600  163774464 
+
+Tiempo: 2023-10-09 18:46:25
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98713600  163774464 
+
+Tiempo: 2023-10-09 18:46:26
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98721792  163774464 
+
+Tiempo: 2023-10-09 18:46:27
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98721792  163774464 
+
+Tiempo: 2023-10-09 18:46:28
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98721792  163774464 
+
+Tiempo: 2023-10-09 18:46:29
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98729984  163774464 
+
+Tiempo: 2023-10-09 18:46:30
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98766848  163799040 
+
+Tiempo: 2023-10-09 18:46:31
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98783232  163831808 
+
+Tiempo: 2023-10-09 18:46:32
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98762752  163807232 
+
+Tiempo: 2023-10-09 18:46:33
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98762752  163807232 
+
+Tiempo: 2023-10-09 18:46:34
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98762752  163807232 
+
+Tiempo: 2023-10-09 18:46:35
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98770944  163807232 
+
+Tiempo: 2023-10-09 18:46:36
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98770944  163807232 
+
+Tiempo: 2023-10-09 18:46:37
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98770944  163807232 
+
+Tiempo: 2023-10-09 18:46:38
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98783232  163807232 
+
+Tiempo: 2023-10-09 18:46:39
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98783232  163807232 
+
+Tiempo: 2023-10-09 18:46:40
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98816000  163831808 
+
+Tiempo: 2023-10-09 18:46:41
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98824192  163831808 
+
+Tiempo: 2023-10-09 18:46:42
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98824192  163831808 
+
+Tiempo: 2023-10-09 18:46:43
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98795520  163807232 
+
+Tiempo: 2023-10-09 18:46:44
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98807808  163807232 
+
+Tiempo: 2023-10-09 18:46:45
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98807808  163807232 
+
+Tiempo: 2023-10-09 18:46:46
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98807808  163807232 
+
+Tiempo: 2023-10-09 18:46:47
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98816000  163807232 
+
+Tiempo: 2023-10-09 18:46:48
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98816000  163807232 
+
+Tiempo: 2023-10-09 18:46:49
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98816000  163807232 
+
+Tiempo: 2023-10-09 18:46:50
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98856960  163831808 
+
+Tiempo: 2023-10-09 18:46:51
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98828288  163807232 
+
+Tiempo: 2023-10-09 18:46:52
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98828288  163807232 
+
+Tiempo: 2023-10-09 18:46:53
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98840576  163807232 
+
+Tiempo: 2023-10-09 18:46:54
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98840576  163807232 
+
+Tiempo: 2023-10-09 18:46:55
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98840576  163807232 
+
+Tiempo: 2023-10-09 18:46:56
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98848768  163807232 
+
+Tiempo: 2023-10-09 18:46:57
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98848768  163807232 
+
+Tiempo: 2023-10-09 18:46:58
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98848768  163807232 
+
+Tiempo: 2023-10-09 18:46:59
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98856960  163807232 
+
+Tiempo: 2023-10-09 18:47:00
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99057664  163987456 
+
+Tiempo: 2023-10-09 18:47:01
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99057664  163987456 
+
+Tiempo: 2023-10-09 18:47:02
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99065856  163987456 
+
+Tiempo: 2023-10-09 18:47:03
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98873344  163807232 
+
+Tiempo: 2023-10-09 18:47:04
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98877440  163807232 
+
+Tiempo: 2023-10-09 18:47:05
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98885632  163807232 
+
+Tiempo: 2023-10-09 18:47:06
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98885632  163807232 
+
+Tiempo: 2023-10-09 18:47:07
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98885632  163807232 
+
+Tiempo: 2023-10-09 18:47:08
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98897920  163807232 
+
+Tiempo: 2023-10-09 18:47:09
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98897920  163807232 
+
+Tiempo: 2023-10-09 18:47:10
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98930688  163831808 
+
+Tiempo: 2023-10-09 18:47:11
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98906112  163807232 
+
+Tiempo: 2023-10-09 18:47:12
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98906112  163807232 
+
+Tiempo: 2023-10-09 18:47:13
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98906112  163807232 
+
+Tiempo: 2023-10-09 18:47:14
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98914304  163807232 
+
+Tiempo: 2023-10-09 18:47:15
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98914304  163807232 
+
+Tiempo: 2023-10-09 18:47:16
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98918400  163807232 
+
+Tiempo: 2023-10-09 18:47:17
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98926592  163807232 
+
+Tiempo: 2023-10-09 18:47:19
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98926592  163807232 
+
+Tiempo: 2023-10-09 18:47:20
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98926592  163807232 
+
+Tiempo: 2023-10-09 18:47:21
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98967552  163831808 
+
+Tiempo: 2023-10-09 18:47:22
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98967552  163831808 
+
+Tiempo: 2023-10-09 18:47:23
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98967552  163831808 
+
+Tiempo: 2023-10-09 18:47:24
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98951168  163807232 
+
+Tiempo: 2023-10-09 18:47:25
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98951168  163807232 
+
+Tiempo: 2023-10-09 18:47:26
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98951168  163807232 
+
+Tiempo: 2023-10-09 18:47:27
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98959360  163807232 
+
+Tiempo: 2023-10-09 18:47:28
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98959360  163807232 
+
+Tiempo: 2023-10-09 18:47:29
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98959360  163807232 
+
+Tiempo: 2023-10-09 18:47:30
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98967552  163807232 
+
+Tiempo: 2023-10-09 18:47:31
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99004416  163831808 
+
+Tiempo: 2023-10-09 18:47:32
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98975744  163807232 
+
+Tiempo: 2023-10-09 18:47:33
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98983936  163807232 
+
+Tiempo: 2023-10-09 18:47:34
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98983936  163807232 
+
+Tiempo: 2023-10-09 18:47:35
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98983936  163807232 
+
+Tiempo: 2023-10-09 18:47:36
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98996224  163807232 
+
+Tiempo: 2023-10-09 18:47:37
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98996224  163807232 
+
+Tiempo: 2023-10-09 18:47:38
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98996224  163807232 
+
+Tiempo: 2023-10-09 18:47:39
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99008512  163807232 
+
+Tiempo: 2023-10-09 18:47:40
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99008512  163807232 
+
+Tiempo: 2023-10-09 18:47:41
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99041280  163831808 
+
+Tiempo: 2023-10-09 18:47:42
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99049472  163831808 
+
+Tiempo: 2023-10-09 18:47:43
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99049472  163831808 
+
+Tiempo: 2023-10-09 18:47:44
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99020800  163807232 
+
+Tiempo: 2023-10-09 18:47:45
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99028992  163807232 
+
+Tiempo: 2023-10-09 18:47:46
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99028992  163807232 
+
+Tiempo: 2023-10-09 18:47:47
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99028992  163807232 
+
+Tiempo: 2023-10-09 18:47:48
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99041280  163807232 
+
+Tiempo: 2023-10-09 18:47:49
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99041280  163807232 
+
+Tiempo: 2023-10-09 18:47:50
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99041280  163807232 
+
+Tiempo: 2023-10-09 18:47:51
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99082240  163831808 
+
+Tiempo: 2023-10-09 18:47:52
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99053568  163807232 
+
+Tiempo: 2023-10-09 18:47:53
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99053568  163807232 
+
+Tiempo: 2023-10-09 18:47:54
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99061760  163807232 
+
+Tiempo: 2023-10-09 18:47:55
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99061760  163807232 
+
+Tiempo: 2023-10-09 18:47:56
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99065856  163807232 
+
+Tiempo: 2023-10-09 18:47:57
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99074048  163807232 
+
+Tiempo: 2023-10-09 18:47:58
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99074048  163807232 
+
+Tiempo: 2023-10-09 18:47:59
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99074048  163807232 
+
+Tiempo: 2023-10-09 18:48:00
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99082240  163807232 
+
+Tiempo: 2023-10-09 18:48:01
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99282944  163987456 
+
+Tiempo: 2023-10-09 18:48:02
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99282944  163987456 
+
+Tiempo: 2023-10-09 18:48:03
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99291136  163987456 
+
+Tiempo: 2023-10-09 18:48:04
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99102720  163807232 
+
+Tiempo: 2023-10-09 18:48:05
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99102720  163807232 
+
+Tiempo: 2023-10-09 18:48:06
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99110912  163807232 
+
+Tiempo: 2023-10-09 18:48:07
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99110912  163807232 
+
+Tiempo: 2023-10-09 18:48:08
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99110912  163807232 
+
+Tiempo: 2023-10-09 18:48:09
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99119104  163807232 
+
+Tiempo: 2023-10-09 18:48:10
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99119104  163807232 
+
+Tiempo: 2023-10-09 18:48:11
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99155968  163831808 
+
+Tiempo: 2023-10-09 18:48:12
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99135488  163807232 
+
+Tiempo: 2023-10-09 18:48:13
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99135488  163807232 
+
+Tiempo: 2023-10-09 18:48:14
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99135488  163807232 
+
+Tiempo: 2023-10-09 18:48:15
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99143680  163807232 
+
+Tiempo: 2023-10-09 18:48:16
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99143680  163807232 
+
+Tiempo: 2023-10-09 18:48:17
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99143680  163807232 
+
+Tiempo: 2023-10-09 18:48:18
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99135488  163774464 
+
+Tiempo: 2023-10-09 18:48:19
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 99135488  163774464 
+
+Tiempo: 2023-10-09 18:48:20
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98455552  163803136 
+
+Tiempo: 2023-10-09 18:48:21
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98463744  163803136 
+
+Tiempo: 2023-10-09 18:48:22
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98463744  163803136 
+
+Tiempo: 2023-10-09 18:48:23
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98463744  163803136 
+
+Tiempo: 2023-10-09 18:48:24
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98418688  163778560 
+
+Tiempo: 2023-10-09 18:48:25
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98418688  163778560 
+
+Tiempo: 2023-10-09 18:48:26
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98418688  163778560 
+
+Tiempo: 2023-10-09 18:48:27
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98426880  163778560 
+
+Tiempo: 2023-10-09 18:48:28
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98426880  163778560 
+
+Tiempo: 2023-10-09 18:48:29
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98426880  163778560 
+
+Tiempo: 2023-10-09 18:48:30
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98467840  163803136 
+
+Tiempo: 2023-10-09 18:48:31
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98488320  163835904 
+
+Tiempo: 2023-10-09 18:48:32
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98459648  163811328 
+
+Tiempo: 2023-10-09 18:48:33
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98467840  163811328 
+
+Tiempo: 2023-10-09 18:48:34
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98467840  163811328 
+
+Tiempo: 2023-10-09 18:48:35
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98467840  163811328 
+
+Tiempo: 2023-10-09 18:48:36
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98471936  163811328 
+
+Tiempo: 2023-10-09 18:48:37
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98471936  163811328 
+
+Tiempo: 2023-10-09 18:48:38
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98471936  163811328 
+
+Tiempo: 2023-10-09 18:48:39
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98648064  163950592 
+
+Tiempo: 2023-10-09 18:48:40
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98594816  163893248 
+
+Tiempo: 2023-10-09 18:48:41
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98594816  163893248 
+
+Tiempo: 2023-10-09 18:48:42
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98603008  163893248 
+
+Tiempo: 2023-10-09 18:48:43
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98603008  163893248 
+
+Tiempo: 2023-10-09 18:48:44
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98496512  163811328 
+
+Tiempo: 2023-10-09 18:48:45
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98504704  163811328 
+
+Tiempo: 2023-10-09 18:48:46
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98508800  163811328 
+
+Tiempo: 2023-10-09 18:48:47
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98508800  163811328 
+
+Tiempo: 2023-10-09 18:48:48
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98516992  163811328 
+
+Tiempo: 2023-10-09 18:48:49
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98516992  163811328 
+
+Tiempo: 2023-10-09 18:48:50
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98549760  163835904 
+
+Tiempo: 2023-10-09 18:48:51
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98557952  163835904 
+
+Tiempo: 2023-10-09 18:48:52
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98529280  163811328 
+
+Tiempo: 2023-10-09 18:48:53
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98529280  163811328 
+
+Tiempo: 2023-10-09 18:48:54
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98545664  163811328 
+
+Tiempo: 2023-10-09 18:48:55
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98545664  163811328 
+
+Tiempo: 2023-10-09 18:48:56
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98545664  163811328 
+
+Tiempo: 2023-10-09 18:48:57
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98553856  163811328 
+
+Tiempo: 2023-10-09 18:48:58
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98553856  163811328 
+
+Tiempo: 2023-10-09 18:48:59
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98553856  163811328 
+
+Tiempo: 2023-10-09 18:49:00
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98594816  163835904 
+
+Tiempo: 2023-10-09 18:49:01
+Uso de CPU (%): 1.6
+Uso de memoria (bytes): 98762752  163991552 
+
+Tiempo: 2023-10-09 18:49:02
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98762752  163991552 
+
+Tiempo: 2023-10-09 18:49:03
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98770944  163991552 
+
+Tiempo: 2023-10-09 18:49:04
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98582528  163811328 
+
+Tiempo: 2023-10-09 18:49:05
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98582528  163811328 
+
+Tiempo: 2023-10-09 18:49:06
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98590720  163811328 
+
+Tiempo: 2023-10-09 18:49:07
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98590720  163811328 
+
+Tiempo: 2023-10-09 18:49:08
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98590720  163811328 
+
+Tiempo: 2023-10-09 18:49:09
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98603008  163811328 
+
+Tiempo: 2023-10-09 18:49:10
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98635776  163835904 
+
+Tiempo: 2023-10-09 18:49:11
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98635776  163835904 
+
+Tiempo: 2023-10-09 18:49:12
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98615296  163811328 
+
+Tiempo: 2023-10-09 18:49:13
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98615296  163811328 
+
+Tiempo: 2023-10-09 18:49:14
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98615296  163811328 
+
+Tiempo: 2023-10-09 18:49:15
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98623488  163811328 
+
+Tiempo: 2023-10-09 18:49:16
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98623488  163811328 
+
+Tiempo: 2023-10-09 18:49:17
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98623488  163811328 
+
+Tiempo: 2023-10-09 18:49:18
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98635776  163811328 
+
+Tiempo: 2023-10-09 18:49:19
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98635776  163811328 
+
+Tiempo: 2023-10-09 18:49:20
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163835904 
+
+Tiempo: 2023-10-09 18:49:21
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98676736  163835904 
+
+Tiempo: 2023-10-09 18:49:22
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98676736  163835904 
+
+Tiempo: 2023-10-09 18:49:23
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98676736  163835904 
+
+Tiempo: 2023-10-09 18:49:24
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98660352  163811328 
+
+Tiempo: 2023-10-09 18:49:25
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98660352  163811328 
+
+Tiempo: 2023-10-09 18:49:26
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98660352  163811328 
+
+Tiempo: 2023-10-09 18:49:27
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163811328 
+
+Tiempo: 2023-10-09 18:49:28
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163811328 
+
+Tiempo: 2023-10-09 18:49:29
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98668544  163811328 
+
+Tiempo: 2023-10-09 18:49:30
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98713600  163835904 
+
+Tiempo: 2023-10-09 18:49:31
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98713600  163835904 
+
+Tiempo: 2023-10-09 18:49:32
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98684928  163811328 
+
+Tiempo: 2023-10-09 18:49:33
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98693120  163811328 
+
+Tiempo: 2023-10-09 18:49:34
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98693120  163811328 
+
+Tiempo: 2023-10-09 18:49:35
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98693120  163811328 
+
+Tiempo: 2023-10-09 18:49:36
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98701312  163811328 
+
+Tiempo: 2023-10-09 18:49:38
+Uso de CPU (%): 1.6
+Uso de memoria (bytes): 98701312  163811328 
+
+Tiempo: 2023-10-09 18:49:39
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98701312  163811328 
+
+Tiempo: 2023-10-09 18:49:40
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98709504  163811328 
+
+Tiempo: 2023-10-09 18:49:41
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98746368  163835904 
+
+Tiempo: 2023-10-09 18:49:42
+Uso de CPU (%): 1.5
+Uso de memoria (bytes): 98746368  163835904 
+
+Tiempo: 2023-10-09 18:49:43
+Uso de CPU (%): 1.5
+Uso de memoria (bytes): 98750464  163835904 
+
+Tiempo: 2023-10-09 18:49:44
+Uso de CPU (%): 0.0
+Uso de memoria (bytes): 98750464  163835904 
+
