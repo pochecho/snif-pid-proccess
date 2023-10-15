@@ -3,46 +3,46 @@
       "port": 10000,
       "name": "loadbalancer",
       "disabled": true,
-      "pid": 14416
+      "pid": 13412
     },
     {
       "port": 10001,
       "name": "authorization",
-      "pid": 13904
+      "pid": 30036
     },
     {
       "port": 10002,
       "name": "invoices",
-      "pid": 26820
+      "pid": 19080
     },
     {
       "port": 10003,
       "name": "locations",
-      "pid": 16292
+      "pid": 1776
     },
     {
       "port": 10004,
       "name": "news",
-      "pid": 10940
+      "pid": 27808
     },
     {
       "port": 10005,
       "name": "organizations",
-      "pid": 7376
+      "pid": 28924
     },
     {
       "port": 10006,
       "name": "teams",
-      "pid": 3396
+      "pid": 15136
     },
     {
       "port": 10007,
       "name": "tournaments",
-      "pid": 15280
+      "pid": 38924
     },
     {
       "port": 10008,
       "name": "users",
-      "pid": 21924
+      "pid": 35324
     }
   ]
