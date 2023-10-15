@@ -46,6 +46,8 @@ if __name__ == "__main__":
             'name': 'AMAZING LOGGER',
             'pid': myPID,
         })
+        if(not os.path.exists('logs')):
+            os.mkdir('logs')
 
         threads_configs = list(map(lambda x: {'alive': True, 'data': x}, processes))
         

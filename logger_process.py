@@ -10,7 +10,7 @@ class LoggerProcess:
         self.folder = self.generate_name_folder()
         
     def generate_name_folder(self):
-        return f"{self.pid}-{self.name.lower()}"
+        return f"logs/{self.pid}-{self.name.lower()}.log"
     def read(self):
         cpu = self.process.cpu_percent(interval=1)
         mem_info = self.process.memory_info()
