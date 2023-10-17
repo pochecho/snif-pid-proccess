@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import os
 import argparse
+import numpy as np
 
 # Crea un objeto ArgumentParser
 parser = argparse.ArgumentParser(argument_default= {'graphic': False })
@@ -8,38 +9,33 @@ parser = argparse.ArgumentParser(argument_default= {'graphic': False })
 parser.add_argument('--graphic','-g', nargs='?',type=str, help='Descripción del primer argumento', default=False)
 
 args = parser.parse_args()
-print(args)
 
-
-
-# Datos de ejemplo
-x = [1, 2, 3, 4, 5]
-y = [10, 25, 18, 30, 15]
-
-
-# Agregar etiquetas y título
 plt.xlabel('Tiempo')
 plt.ylabel('MB Memoria')
 columns = [
     {
         'display': 'Date',
         'computable': False,
-        'color': 'b'
+        'color': 'b',
+        'visible': False
     },
     {
         'display': 'CPU',
         'computable': True,
-        'color': '#897564'
+        'color': '#897564',
+        'visible': True
     },
     {
         'display': 'Memory',
         'computable': True,
-        'color': '#1e90ff'
+        'color': '#1e90ff',
+        'visible': True
     },
     {
         'display': 'Net',
-        'computable': True,
-        'color': '#354'
+        'computable': False,
+        'color': '#354',
+        'visible': False
     }
 
 ]
@@ -76,8 +72,6 @@ def getData(config, columns):
     print(content)
     return content
 
-print(files)
-
 for file in files:
     data = getData(file, columns)
     x = []
@@ -92,28 +86,29 @@ for file in files:
             'y': []
         })
         for row in data:
-            print(row)
             graphs[c]['x'].append(row[0])
             graphs[c]['y'].append(row[c])
             # Anotar el valor mínimo
         x = graphs[c]['x']
         y = graphs[c]['y']
-        if(column['computable']):
+        if(column['visible']):
             min_y = min(y)
             max_y = max(y)
+            average = np.mean(np.array(y))
             plt.annotate(f'Mínimo: {min_y}', xy=(x[y.index(min_y)], min_y), xytext=(20, 10),
                         textcoords='offset points', arrowprops=dict(arrowstyle="->"))
 
             # Anotar el valor máximo
             plt.annotate(f'Máximo: {max_y}', xy=(x[y.index(max_y)], max_y), xytext=(20, 10),
                         textcoords='offset points', arrowprops=dict(arrowstyle="->"))
+            plt.annotate(f'Promedio: {average}', xy=(x[len(x) // 2], average), xytext=(20, 10),
+                        textcoords='offset points', arrowprops=dict(arrowstyle="->"))
             plt.plot( x,  y, label=column['display'], marker='o', linestyle='-', color=column['color'])
+            
         c+=1
+    plt.legend()
+
+    # Mostrar la gráfica
+    plt.show()
     
     # Crear una gráfica de líneas
-
-    break
-plt.legend()
-
-# Mostrar la gráfica
-plt.show()
