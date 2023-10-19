@@ -69,7 +69,6 @@ def getData(config, columns):
                 
         
         content = list(filter(lambda y: len(y) == len(columns), map(lambda x: trim_data(x.split(',')),content)))
-    print(content)
     return content
 
 for file in files:

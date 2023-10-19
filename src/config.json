@@ -1,0 +1,42 @@
+{
+    "name": "tic-partner",
+    "features": {
+        "sniffer": {
+            "logs-folder": "logs",
+            "sniff-myself": true,
+            "sniff-host": true,
+            "process-to-sniff-file" : "my-process.json",
+            "sniff-from-file": false,
+            "process-to-sniff-regex": "nine",
+            "metrics" : [
+                {
+                    "name" :"cpu",
+                    "normalize": false,
+                    "absolute": true,
+                    "status" : "enabled"
+                },
+                {
+                    "name" :"memory",
+                    "unit": "MB",
+                    "status" : "enabled"
+                },
+                {
+                    "name" :"paginated-memory",
+                    "unit": "MB",
+                    "status" : "enabled"
+                },
+                {
+                    "name" :"net-output",
+                    "unit": "MB",
+                    "status" : "enabled"
+                },
+                {
+                    "name" :"net-input",
+                    "unit": "MB",
+                    "status" : "enabled"
+                }
+            ]
+
+        }
+    }
+}

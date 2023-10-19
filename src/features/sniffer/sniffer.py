@@ -1,4 +1,4 @@
-from logger_process import LoggerProcess
+from features.sniffer.logger_process import LoggerProcess
 from time import sleep
 def sniffer(process: LoggerProcess, active):
     folder = process.folder
@@ -9,6 +9,7 @@ def sniffer(process: LoggerProcess, active):
             log.write('\n')
             log.flush()
             sleep(1)
+        print(f'Closing {process.name} ({process.pid}) ')
             
         
         
