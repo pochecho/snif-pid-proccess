@@ -87,5 +87,5 @@ class SnifferHandler(Handler):
             self.threads[i].join()
             self.counters-=1
             i+=1
-        return super().exit()
         self.counters-=1
+        return super().exit()
