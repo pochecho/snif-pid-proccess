@@ -1,42 +1,130 @@
 {
-    "name": "tic-partner",
-    "features": {
-        "sniffer": {
-            "logs-folder": "logs",
-            "sniff-myself": true,
-            "sniff-host": true,
-            "process-to-sniff-file" : "my-process.json",
-            "sniff-from-file": false,
-            "process-to-sniff-regex": "nine",
-            "metrics" : [
-                {
-                    "name" :"cpu",
-                    "normalize": false,
-                    "absolute": true,
-                    "status" : "enabled"
-                },
-                {
-                    "name" :"memory",
-                    "unit": "MB",
-                    "status" : "enabled"
-                },
-                {
-                    "name" :"paginated-memory",
-                    "unit": "MB",
-                    "status" : "enabled"
-                },
-                {
-                    "name" :"net-output",
-                    "unit": "MB",
-                    "status" : "enabled"
-                },
-                {
-                    "name" :"net-input",
-                    "unit": "MB",
-                    "status" : "enabled"
-                }
-            ]
+  "name": "tic-partner",
+  "features": {
+    "graph": {
+      "split-by-day": true,
 
+      "path": "reduced-logs",
+      "unit-to-reduce": "m",
+      "columns": [
+        {
+          "display": "Date",
+          "computable": false,
+          "color": "#333",
+          "visible": false
+        },
+        {
+          "display": "CPU",
+          "computable": true,
+          "color": "#897564",
+          "visible": true
+        },
+        {
+          "display": "Memory",
+          "computable": true,
+          "color": "#1e90ff",
+          "visible": true
+        },
+        {
+          "display": "Paginated Memory",
+          "computable": true,
+          "color": "#1e90ff",
+          "visible": false
+        },
+        {
+          "display": "Net Output",
+          "computable": true,
+          "color": "#354",
+          "visible": true
+        },
+        {
+          "display": "Net Input",
+          "computable": true,
+          "color": "#354",
+          "visible": true
         }
+      ]
+    },
+    "sniffer": {
+      "logs-folder": "logs",
+      "sniff-myself": true,
+      "sniff-host": true,
+      "process-to-sniff-file": "my-process.json",
+      "sniff-from-file": false,
+      "process-to-sniff-regex": "riot",
+      "metrics": [
+        {
+          "name": "cpu",
+          "normalize": false,
+          "absolute": true,
+          "status": "enabled"
+        },
+        {
+          "name": "memory",
+          "unit": "MB",
+          "status": "enabled"
+        },
+        {
+          "name": "paginated-memory",
+          "unit": "MB",
+          "status": "enabled"
+        },
+        {
+          "name": "net-output",
+          "unit": "MB",
+          "status": "enabled"
+        },
+        {
+          "name": "net-input",
+          "unit": "MB",
+          "status": "enabled"
+        }
+      ]
+    },
+    "reducer": {
+      "unit-to-reduce": "s",
+      "range-to-reduce": 3,
+      "start-exactly": false,
+      "from": "logs",
+      "to": "reduced-logs",
+      "columns": [
+        {
+          "display": "Date",
+          "computable": false,
+          "color": "#333",
+          "visible": false
+        },
+        {
+          "display": "CPU",
+          "computable": true,
+          "color": "#897564",
+          "visible": true
+        },
+        {
+          "display": "Memory",
+          "computable": true,
+          "color": "#1e90ff",
+          "visible": true
+        },
+        {
+          "display": "Paginated Memory",
+          "computable": true,
+          "color": "#1e90ff",
+          "visible": false
+        },
+        {
+          "display": "Net Output",
+          "computable": true,
+          "color": "#354",
+          "visible": true
+        },
+        {
+          "display": "Net Input",
+          "computable": true,
+          "color": "#354",
+          "visible": true
+        }
+      ]
     }
+  }
 }

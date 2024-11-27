@@ -7,6 +7,8 @@ import json
 from   constants import DEFAULT_CONFIG
 from helpers import merge_configurations
 from features.sniffer.index import SnifferHandler
+from features.graph.index import  GraphicHandler
+from features.reducer.index import  ReducerHandler
 
 if __name__ == "__main__":
     with open('config.json', 'r') as t:
@@ -33,7 +35,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     mode_handlers = {
-        'sniff': SnifferHandler
+        'sniff': SnifferHandler,
+        'graph': GraphicHandler,
+        'reducer': ReducerHandler
     }
     
     handler_class = mode_handlers[args.mode]

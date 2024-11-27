@@ -1,6 +1,7 @@
 pid-to-sniff.json
 **/__pycache__
 **/logs
+**/*.log
 **/dist
 **/build
 main.spec
